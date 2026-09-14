@@ -1,0 +1,8 @@
+{
+  "name": "EXTRABLACK Snooker Manager",
+  "description": "Production-ready management system for mini-snooker tables, games, loans, workers, waiting lists, and Google Sheets synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
